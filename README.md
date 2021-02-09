@@ -15,8 +15,11 @@ F. 今立唯子
 G. 近藤大揮
 H. 奥原有貴
 
+Teams で会議を立ち上げる人は必ず、会議のオプションで「ロビーを迂回するユーザー」を「全員」にしてください
+
 ## チーム A
-https://teams.microsoft.com/l/meetup-join/19%3a81f2d33daaa34cd1bee1ec6e7e9c920a%40thread.tacv2/1612833855112?context=%7b%22Tid%22%3a%227e19d899-8805-4c1b-8e0e-00fe710963e4%22%2c%22Oid%22%3a%2247665828-a717-478d-a455-bd3a3dbfaaf2%22%7d
+
+https://teams.microsoft.com/l/meetup-join/19%3a81f2d33daaa34cd1bee1ec6e7e9c920a%40thread.tacv2/1612852943907?context=%7b%22Tid%22%3a%227e19d899-8805-4c1b-8e0e-00fe710963e4%22%2c%22Oid%22%3a%2247665828-a717-478d-a455-bd3a3dbfaaf2%22%7d
 
 司会進行： 斉藤憲吾  
 赤木優輝
