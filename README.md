@@ -19,7 +19,7 @@ Teams で会議を立ち上げる人は必ず、会議のオプションで「�
 
 ## チーム A
 
-https://teams.microsoft.com/l/meetup-join/19%3a2cc0d6f3aa46403eb620a932ed953e6d%40thread.tacv2/1612923656786?context=%7b%22Tid%22%3a%227e19d899-8805-4c1b-8e0e-00fe710963e4%22%2c%22Oid%22%3a%2247665828-a717-478d-a455-bd3a3dbfaaf2%22%7d
+https://teams.microsoft.com/l/meetup-join/19%3a81f2d33daaa34cd1bee1ec6e7e9c920a%40thread.tacv2/1612925526038?context=%7b%22Tid%22%3a%227e19d899-8805-4c1b-8e0e-00fe710963e4%22%2c%22Oid%22%3a%2247665828-a717-478d-a455-bd3a3dbfaaf2%22%7d
 
 司会進行： 斉藤憲吾  
 赤木優輝
@@ -33,7 +33,7 @@ https://teams.microsoft.com/l/meetup-join/19%3a2cc0d6f3aa46403eb620a932ed953e6d%
 三村丈汰
 
 ## チーム B
-https://teams.microsoft.com/l/meetup-join/19%3afa289e31b4aa410485b913a1dfbff086%40thread.tacv2/1612833874571?context=%7b%22Tid%22%3a%227e19d899-8805-4c1b-8e0e-00fe710963e4%22%2c%22Oid%22%3a%2247665828-a717-478d-a455-bd3a3dbfaaf2%22%7d
+https://teams.microsoft.com/l/meetup-join/19%3afa289e31b4aa410485b913a1dfbff086%40thread.tacv2/1612925578704?context=%7b%22Tid%22%3a%227e19d899-8805-4c1b-8e0e-00fe710963e4%22%2c%22Oid%22%3a%2247665828-a717-478d-a455-bd3a3dbfaaf2%22%7d
 
 司会進行： 水谷優汰  
 内田悠介
@@ -47,7 +47,7 @@ https://teams.microsoft.com/l/meetup-join/19%3afa289e31b4aa410485b913a1dfbff086%
 橋本夏樹
 
 ## チーム C
-https://teams.microsoft.com/l/meetup-join/19%3a436f0f356503448c9c60b7c4814b3b71%40thread.tacv2/1612833958829?context=%7b%22Tid%22%3a%227e19d899-8805-4c1b-8e0e-00fe710963e4%22%2c%22Oid%22%3a%2247665828-a717-478d-a455-bd3a3dbfaaf2%22%7d
+https://teams.microsoft.com/l/meetup-join/19%3a436f0f356503448c9c60b7c4814b3b71%40thread.tacv2/1612925626773?context=%7b%22Tid%22%3a%227e19d899-8805-4c1b-8e0e-00fe710963e4%22%2c%22Oid%22%3a%2247665828-a717-478d-a455-bd3a3dbfaaf2%22%7d
 
 司会進行： 中野義嗣    
 木村弘樹
@@ -73,7 +73,7 @@ https://teams.microsoft.com/l/meetup-join/19%3a436f0f356503448c9c60b7c4814b3b71%
 羽賀文哉
 
 ## チーム E
-https://teams.microsoft.com/l/meetup-join/19%3a436f0f356503448c9c60b7c4814b3b71%40thread.tacv2/1612833958829?context=%7b%22Tid%22%3a%227e19d899-8805-4c1b-8e0e-00fe710963e4%22%2c%22Oid%22%3a%2247665828-a717-478d-a455-bd3a3dbfaaf2%22%7d
+https://teams.microsoft.com/l/channel/19%3af46e712c63de4a3180bbb61332e63803%40thread.tacv2/2%25E6%259C%2588%25E5%25BA%25A6%25E5%25AE%259A%25E4%25BE%258B%25E4%25BC%259A%25E3%2583%2581%25E3%2583%25BC%25E3%2583%25A0E?groupId=42b501eb-2b2c-46f2-80ad-ed068753ebb5&tenantId=7e19d899-8805-4c1b-8e0e-00fe710963e4
 
 司会進行： 斧田和弥  
 藤岡大樹
