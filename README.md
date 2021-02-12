@@ -50,7 +50,7 @@ https://teams.microsoft.com/l/meetup-join/19%3a81f2d33daaa34cd1bee1ec6e7e9c920a%
 https://teams.microsoft.com/l/meetup-join/19%3afa289e31b4aa410485b913a1dfbff086%40thread.tacv2/1612925578704?context=%7b%22Tid%22%3a%227e19d899-8805-4c1b-8e0e-00fe710963e4%22%2c%22Oid%22%3a%2247665828-a717-478d-a455-bd3a3dbfaaf2%22%7d
 
 サポート： 中野義嗣    
-**参加:** 稲垣来未  打屋遥奈  大島寿久  太田真康    
+**参加:** 稲垣来未  打屋遥奈  大島寿久  太田真康  浄土高広    
 **途中参加:** 小林凌弥  小森未有希  渋谷誠之    
 
 ## チーム C: Teams 小部屋リンク   
