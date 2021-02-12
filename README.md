@@ -85,5 +85,5 @@ https://teams.microsoft.com/l/meetup-join/19%3a436f0f356503448c9c60b7c4814b3b71%
 https://teams.microsoft.com/l/meetup-join/19%3a436f0f356503448c9c60b7c4814b3b71%40thread.tacv2/1612833958829?context=%7b%22Tid%22%3a%227e19d899-8805-4c1b-8e0e-00fe710963e4%22%2c%22Oid%22%3a%2247665828-a717-478d-a455-bd3a3dbfaaf2%22%7d
 
 サポート： 奥原有貴  
-**参加:** 山下勇樹  山田優一  山田隆次  山本晃大  児山将之    
+**参加:** 山下勇樹  山田優一  山本晃大  児山将之    
 **途中参加:** 内田祐太  塩崎永祐  服部睦  安江大吾      
