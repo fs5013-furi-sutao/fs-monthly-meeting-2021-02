@@ -64,8 +64,8 @@ https://teams.microsoft.com/l/meetup-join/19%3a436f0f356503448c9c60b7c4814b3b71%
 https://teams.microsoft.com/l/meetup-join/19%3a9c7d6c471ae843a1880081573c487303%40thread.tacv2/1613123525575?context=%7b%22Tid%22%3a%227e19d899-8805-4c1b-8e0e-00fe710963e4%22%2c%22Oid%22%3a%22ed01240b-b46e-45ec-844a-1f7995de46cf%22%7d
 
 サポート： 林大騎  
-**参加:** 斉藤憲吾  坂口豪士  坂口智昭  佐藤和輝  佐藤修一郎    
-**途中参加:** 羽賀文哉  牧野祥太  三輪一仁    
+**参加:** 斉藤憲吾  坂口豪士  坂口智昭  佐藤和輝    
+**途中参加:** 羽賀文哉  牧野祥太  三輪一仁  佐藤修一郎      
 
 ## チーム E: Teams 小部屋リンク   
 https://teams.microsoft.com/l/meetup-join/19%3afe6484faabf84a5ea4a9c77a37898b4f%40thread.tacv2/1613123802649?context=%7b%22Tid%22%3a%227e19d899-8805-4c1b-8e0e-00fe710963e4%22%2c%22Oid%22%3a%22ed01240b-b46e-45ec-844a-1f7995de46cf%22%7d
