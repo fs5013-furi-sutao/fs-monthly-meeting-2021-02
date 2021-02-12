@@ -7,7 +7,10 @@
 20 分ほどの動画です。
 
 視聴動画:  
-https://youtu.be/mFbRE81yE_U
+https://youtu.be/mFbRE81yE_U  
+
+ワークで利用する Excel シート:    
+https://github.com/fs5013-furi-sutao/fs-monthly-meeting-2021-02/raw/main/2021.02.monthly.meeting.%E3%82%B8%E3%83%A7%E3%83%8F%E3%83%AA%E5%A4%89%E5%BD%A2_%E3%83%AF%E3%83%BC%E3%82%AF%E3%82%B7%E3%83%BC%E3%83%88.xlsx
 
 ## チーム分けについて
 
