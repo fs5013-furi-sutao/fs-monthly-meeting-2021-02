@@ -82,7 +82,7 @@ https://teams.microsoft.com/l/meetup-join/19%3af24f5f3cd2d1438d849cd498fba71e10%
 **途中参加:** 吉森隆史  林達也  吉村公史        
 
 ## チーム G: Teams 小部屋リンク   
-https://teams.microsoft.com/l/meetup-join/19%3a436f0f356503448c9c60b7c4814b3b71%40thread.tacv2/1612833958829?context=%7b%22Tid%22%3a%227e19d899-8805-4c1b-8e0e-00fe710963e4%22%2c%22Oid%22%3a%2247665828-a717-478d-a455-bd3a3dbfaaf2%22%7d
+https://teams.microsoft.com/l/meetup-join/19%3ac2b9125a09ab42c28f4d6dfebdb98134%40thread.tacv2/1613124405317?context=%7b%22Tid%22%3a%227e19d899-8805-4c1b-8e0e-00fe710963e4%22%2c%22Oid%22%3a%2247665828-a717-478d-a455-bd3a3dbfaaf2%22%7d
 
 サポート： 奥原有貴  
 **参加:** 山下勇樹  山田優一  山本晃大  児山将之    
